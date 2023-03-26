@@ -1,7 +1,6 @@
 import gradio as gr
 
-def greet(name):
-    return "Hello " + name + "!"
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
